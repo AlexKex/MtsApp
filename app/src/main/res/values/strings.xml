@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MtsApp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="error_invalid_email">Email адрес введен с ошибкой</string>
+    <string name="error_invalid_password">Пароль очень короткий</string>
+    <string name="error_incorrect_password">Неверный пароль</string>
+    <string name="error_field_required">Это поле обязательно для заполнения</string>
+    <string name="permission_rationale">"Разрешение на доступ к контактам необходимо для автозаполнения поля Email"
+    </string>
+    <string name="title_activity_animals_list">AnimalsListActivity</string>
+</resources>
